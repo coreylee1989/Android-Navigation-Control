@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.cl1434.lee_assignment4.MainActivity">
+    <item
+        android:id="@+id/action_faculty_list"
+        android:orderInCategory="100"
+        android:title="Faculty"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_courses_list"
+        android:orderInCategory="101"
+        android:title="Courses"
+        app:showAsAction="never" />
+</menu>
